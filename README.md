@@ -2,6 +2,8 @@
 
 Welcome to the Virtual Herbal Garden, an interactive web application showcasing 3D models of medicinal plants commonly used in the AYUSH sector. Explore detailed information about each plant, including their common names, habitat, medicinal uses, and cultivation tips.
 
+🌿 **Live Demo**: [Virtual Herbal Garden](https://laharipaideti.github.io/virtual-herbal/)
+
 ## Features
 
 - **Interactive 3D Models**: Explore detailed 3D models of various medicinal plants.
